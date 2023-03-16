@@ -1,0 +1,12 @@
+.listOfItems{
+    justify-content: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item-image{
+    height: 300px;
+}
+.item-card{
+    width: 23%;
+    margin: 12px;
+}

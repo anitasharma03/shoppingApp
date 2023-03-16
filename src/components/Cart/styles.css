@@ -1,0 +1,26 @@
+.listOfItems{
+    justify-content: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item-image{
+    height: 300px;
+}
+.item-card{
+    width: 23%;
+    margin: 12px;
+}
+.empty-cart{
+    text-align:justify;
+    margin-top: 12px;
+    padding-left: 20px ;
+}
+
+.cardBody{
+    height: 10pc;
+    width: 100%;
+    margin: 20px 30px;
+    background-color: #e9ecefb3!important;
+    overflow: auto;
+    padding: 20px 0 15px 0;
+}
